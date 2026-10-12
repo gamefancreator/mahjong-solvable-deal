@@ -1,0 +1,24 @@
+{
+  "name": "mahjong-solvable-deal",
+  "version": "1.0.0",
+  "description": "Mahjong solitaire layouts and a dealer that only produces solvable boards",
+  "main": "engine.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mahjong",
+    "solitaire",
+    "game",
+    "puzzle",
+    "deal",
+    "solvable"
+  ],
+  "homepage": "https://mahjongbay.com/",
+  "license": "MIT",
+  "files": [
+    "engine.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
